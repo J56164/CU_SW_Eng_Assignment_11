@@ -1,7 +1,7 @@
 # Note:
 
 - University work
-- Thanks to [Fireship](fireship.io) for the code of this assignment
+- Thanks to [Fireship](https://fireship.io/) for the code of this assignment
 
 ---
 
