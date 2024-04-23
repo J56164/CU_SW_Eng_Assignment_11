@@ -1,3 +1,10 @@
+# Note:
+
+- University work
+- Thanks to [Fireship](fireship.io) for the code of this assignment
+
+---
+
 # Github Actions Demo
 
 Implement CI/CD with Github Actions. 
